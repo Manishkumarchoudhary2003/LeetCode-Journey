@@ -1,3 +1,5 @@
+import java.util.Stack;
+
 public class removeDuplicates {
     class Solution {
         public String removeDuplicates(String s) {
